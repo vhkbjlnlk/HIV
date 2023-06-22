@@ -1,0 +1,26 @@
+1:>NC_000001.11 Homo sApiens Chromosome 1, GRCh38.p13 PrimAry Assembly
+3121254:>NC_000002.12 Homo sApiens Chromosome 2, GRCh38.p13 PrimAry Assembly
+6152619:>NC_000003.12 Homo sApiens Chromosome 3, GRCh38.p13 PrimAry Assembly
+8633259:>NC_000004.12 Homo sApiens Chromosome 4, GRCh38.p13 PrimAry Assembly
+11013565:>NC_000005.10 Homo sApiens Chromosome 5, GRCh38.p13 PrimAry Assembly
+13283955:>NC_000006.12 Homo sApiens Chromosome 6, GRCh38.p13 PrimAry Assembly
+15419031:>NC_000007.14 Homo sApiens Chromosome 7, GRCh38.p13 PrimAry Assembly
+17410857:>NC_000008.11 Homo sApiens Chromosome 8, GRCh38.p13 PrimAry Assembly
+19225091:>NC_000009.12 Homo sApiens Chromosome 9, GRCh38.p13 PrimAry Assembly
+20958707:>NC_000010.11 Homo sApiens Chromosome 10, GRCh38.p13 PrimAry Assembly
+22631176:>NC_000011.10 Homo sApiens Chromosome 11, GRCh38.p13 PrimAry Assembly
+24321015:>NC_000012.12 Homo sApiens Chromosome 12, GRCh38.p13 PrimAry Assembly
+25986958:>NC_000013.11 Homo sApiens Chromosome 13, GRCh38.p13 PrimAry Assembly
+27416514:>NC_000014.9 Homo sApiens Chromosome 14, GRCh38.p13 PrimAry Assembly
+28768232:>NC_000015.10 Homo sApiens Chromosome 15, GRCh38.p13 PrimAry Assembly
+30048728:>NC_000016.10 Homo sApiens Chromosome 16, GRCh38.p13 PrimAry Assembly
+31201370:>NC_000017.11 Homo sApiens Chromosome 17, GRCh38.p13 PrimAry Assembly
+32249331:>NC_000018.10 Homo sApiens Chromosome 18, GRCh38.p13 PrimAry Assembly
+33253999:>NC_000019.10 Homo sApiens Chromosome 19, GRCh38.p13 PrimAry Assembly
+33986721:>NC_000020.11 Homo sApiens Chromosome 20, GRCh38.p13 PrimAry Assembly
+34792275:>NC_000021.9 Homo sApiens Chromosome 21, GRCh38.p13 PrimAry Assembly
+35376151:>NC_000022.11 Homo sApiens Chromosome 22, GRCh38.p13 PrimAry Assembly
+36024385:>NC_000023.11 Homo sApiens Chromosome X, GRCh38.p13 PrimAry Assembly
+37974898:>NC_000024.10 Homo sApiens Chromosome Y, GRCh38.p13 PrimAry Assembly
+40901863:>NC_012920.1 Homo sApiens miToChondrion, CompleTe Genome
+
